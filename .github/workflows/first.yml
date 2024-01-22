@@ -11,4 +11,4 @@ jobs:
         run: echo "Hello world"
         
       - name: print goodbye
-        run: echo "oya odaabo
+        run: echo "oya odaabo"
